@@ -19,6 +19,8 @@
 -->
 
 ## Upcoming Release
+
+## Version 1.4.0
 * Fixed a bug where the restore of deleted database accounts fail.
 
 ## Version 1.3.0
